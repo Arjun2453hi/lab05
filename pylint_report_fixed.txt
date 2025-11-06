@@ -1,0 +1,6 @@
+************* Module inventory_improved_system
+inventory_improved_system.py:76:4: W0603: Using the global statement (global-statement)
+
+-----------------------------------
+Your code has been rated at 9.84/10
+
